@@ -1,0 +1,17 @@
+## 📊 Project Insights
+
+After analyzing the sales data in Power BI, several useful business insights were identified.
+
+🏆 The Top 5 products contributed a major share of total sales, showing that a small group of products drives most of the revenue. At the same time, the Bottom 5 products had low sales and profit, which may indicate low demand, weak marketing, or pricing issues.
+
+📈 Sales trends over time showed fluctuations across different months and quarters. Some periods performed better than others, suggesting seasonal demand patterns and peak sales cycles. This can help the business plan stock and promotions more effectively.
+
+💰 The comparison between sales and profit revealed that high sales do not always result in high profit. Some products generated strong revenue but low margins due to discounts or higher costs. This highlights the importance of focusing on profitability, not just sales volume.
+
+💸 Discount analysis showed that categories with higher discounts often had lower profit margins. While discounts can increase sales quantity, excessive discounting may reduce overall earnings.
+
+🌍 City-wise sales analysis helped identify the best-performing locations as well as weaker markets. High-performing cities can be targeted for expansion, while low-performing cities may need better marketing strategies.
+
+🧾 The total number of orders and quantity sold gave a clear picture of customer demand and transaction volume. This can help in forecasting inventory and improving supply chain planning.
+
+✅ Overall, the dashboard provides a complete view of business performance and supports better decision-making in sales strategy, pricing, inventory management, and regional growth.
